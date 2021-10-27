@@ -1,5 +1,6 @@
 ## Hi there 👋
-- 🌱 I’m currently learning ...
+I am learning how to make sand thinking to taming the Python.
+- 🌱 Currently learning ...
 -- React
 -- Next
 
