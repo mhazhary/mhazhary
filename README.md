@@ -1,9 +1,11 @@
+# mhazhary
 ## Hi there 👋
 I am learning how to make sand thinking to taming the Python.
-- 🌱 Currently learning ...
-> Javascript
-> React
-> Next
+### 🌱 Currently learning ...
+- Python
+- Javascript
+- React
+- Next
 
 <!--
 **nephertz/nephertz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
