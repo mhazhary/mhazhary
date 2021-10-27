@@ -1,6 +1,7 @@
 ## Hi there 👋
 I am learning how to make sand thinking to taming the Python.
 - 🌱 Currently learning ...
+-- Javascript
 -- React
 -- Next
 
